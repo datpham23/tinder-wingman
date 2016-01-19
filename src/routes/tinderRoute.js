@@ -21,7 +21,6 @@ const startJob = ()=>{
   var job = ()=>{
     co(function*(){
       var profiles = (yield tinder.getRecommendations()).results;
-      console.log('received profiles', profiles)
       winston.debug('Received Profiles');
       winston.debug(JSON.stringify(profiles));
       global.io.emit('new-profiles', profiles);

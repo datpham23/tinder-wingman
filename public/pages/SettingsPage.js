@@ -31,7 +31,6 @@ const SettingsPage = React.createClass({
     let {userStore} = this.props;
     let user = userStore.profile.user;
 
-    console.log(user);
     return (
       <div className="settings-page">
         <div className="row">

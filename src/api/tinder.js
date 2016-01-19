@@ -27,7 +27,6 @@ module.exports = {
           profile = response;
           resolve(response);
         }).catch(response=>{
-          console.log(response)
           reject(response)
         })
       }
