@@ -3,15 +3,10 @@
 ## Run
 
 ```bash
+bash scripts/setup.sh
 $ npm install
 $ node db/create.js
 $ npm start
-```
-
-## test
-
-```bash
-$ npm test
 ```
 
 ## References

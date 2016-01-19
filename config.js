@@ -1,4 +1,4 @@
 module.exports = {
-  facebookId : '10101911876186837',
-  accessToken : 'CAAGm0PX4ZCpsBAPhIJlyIY90aj0ZAcNjyCMPhB79KaL9eyRmZA6wkyZAHbN02ypda1ZCKfwTAfGSZB91JnmmddJr7H0SA1lUgxb3ZAw1diF3hUajsCK9yMjyzgbkClZCSnL2oBrFJHlXQgdT1nc1YnKefqIIGb3DKIdRWcdgPazTOfsZBwqh1doPGjsZAoxPBFNCT1zxXS5VPGvlGjpR7CF5sI'
+  facebookId : 'your_fb_id',
+  accessToken : 'your_token'
 };
