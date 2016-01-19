@@ -1,6 +1,7 @@
 [Demo](https://www.youtube.com/watch?v=SPjcE8Y0EAY)
 
 # Overview
+Automate swipe rights. Record swipes. 
 
 ##Config
 Get facebook id [https://developers.facebook.com/tools/explorer](https://developers.facebook.com/tools/explorer)
